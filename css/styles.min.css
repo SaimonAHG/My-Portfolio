@@ -5745,3 +5745,7 @@ body,html {
 .title {
 	padding-top: 30px;
 }
+
+embed {
+	overflow: hidden;
+}
